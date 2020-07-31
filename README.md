@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <h1 align="center">Dynamic Blog Starter</h1>
   <p align="center">A streamlined, file-based Gatsby.js starter for crafting blazing-fast, customizable, and SEO-optimized blogs.</p>
